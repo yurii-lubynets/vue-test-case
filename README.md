@@ -1,6 +1,6 @@
 # vue-test-case
 
-> A Vue.js project
+> A Vue.js project - https://yurii-lubynets.github.io/vue-test-case/
 
 ## Build Setup
 
